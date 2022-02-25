@@ -1,6 +1,7 @@
 # Repositorio de las practicas de la semana 1
 
 ## Toma de requerimientos
+[TomaRequerimientos](TomaRequerimientos.pdf)
 
 ## BuyerPersona
 [BuyerPersona](BuyerPersona.pdf)
@@ -10,4 +11,3 @@
 
 ## Wireframe
 [Wireframe](https://www.figma.com/file/pBFMkuGBg0OgOhuvGeQcih/ABOGABOT?node-id=0%3A1)
-
